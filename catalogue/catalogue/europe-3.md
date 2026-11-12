@@ -1,5 +1,7 @@
 # Discovery candidates: Europe, part 3
 
+ARCHIVAL DISCOVERY SNAPSHOT - not a current qualified job list. This archive preserves all source records, including older or unknown dates. Use the [current Europe list](https://github.com/noah-42/remote-product-manager-jobs/blob/main/europe.md) or [current USA list](https://github.com/noah-42/remote-product-manager-jobs/blob/main/usa.md) for the rolling six-calendar-month display. Archive tables use actual posting dates, newest first; unknown dates last.
+
 [Coverage directory](../discovery.md) · [Job hub](https://github.com/noah-42/job-listings)
 
 These are API summaries, NOT confirmed eligible jobs. Region is an API location hint, NOT proof of permitted worker location. Seniority, employer identity, duplicates, attendance and hiring-country rules may still need full-detail review. Do not count these as screened matches.
@@ -34,8 +36,6 @@ These are API summaries, NOT confirmed eligible jobs. Region is an API location 
 | Jobgether | Product Manager - Administration &amp; Governance | Switzerland | 2026-11-02 | Not stated; estimate unavailable | [Jobscout #3105707 source](https://jobs.lever.co/jobgether/29552177-ffe2-4857-b46a-effa5385c097) |
 | Jobgether | Product Manager - Administration &amp; Governance | Poland | 2026-11-02 | Not stated; estimate unavailable | [Jobscout #3105705 source](https://jobs.lever.co/jobgether/1ca629ec-1bf3-4ec5-9b89-75a34753a431) |
 | Jobgether | Product Manager - Administration &amp; Governance | Sweden | 2026-11-02 | Not stated; estimate unavailable | [Jobscout #3105704 source](https://jobs.lever.co/jobgether/17f85b9f-ef48-4879-8659-510efd556891) |
-| Unknown Company | Technical Product Manager, Bolt DeFi⚡️ | Unknown | 2025-10-08 | Not stated; estimate unavailable | [Jobscout #2144808 source](https://myweb3jobs.com/job/technical-product-manager-bolt-defi%e2%9a%a1%ef%b8%8f/) |
-| Unknown Company | DeFi Product Manager, Bolt⚡️ | Unknown | 2025-12-16 | Not stated; estimate unavailable | [Jobscout #2140472 source](https://myweb3jobs.com/job/defi-product-manager-bolt%e2%9a%a1%ef%b8%8f/) |
 | Jobgether | Product Manager Privacy | Netherlands | 2026-10-23 | Not stated; estimate unavailable | [Jobscout #1687632 source](https://jobs.lever.co/jobgether/dc191cc5-4fbe-4b26-bdd4-f245c8347bcc) |
 | Jobgether | Product Manager Privacy | Germany | 2026-10-23 | Not stated; estimate unavailable | [Jobscout #1687629 source](https://jobs.lever.co/jobgether/d25815c0-442c-419c-8aa0-e6bb91daa519) |
 | Jobgether | Product Manager Privacy | France | 2026-10-23 | Not stated; estimate unavailable | [Jobscout #1687626 source](https://jobs.lever.co/jobgether/bfdd24aa-686e-48d0-9075-0eb381d272b5) |
@@ -60,6 +60,16 @@ These are API summaries, NOT confirmed eligible jobs. Region is an API location 
 | Jobgether | Product Manager - Anti Fraud | Switzerland | 2026-10-23 | Not stated; estimate unavailable | [Jobscout #1677306 source](https://jobs.lever.co/jobgether/4ef088bf-e2df-47ee-8f7b-a55fc3828f9a) |
 | Jobgether | Product Manager - Anti Fraud | Germany | 2026-10-23 | Not stated; estimate unavailable | [Jobscout #1677305 source](https://jobs.lever.co/jobgether/15d3e071-acc8-498f-a849-f9e820b4aa0f) |
 | Jobgether | Product Manager - Anti Fraud | Ireland | 2026-10-23 | Not stated; estimate unavailable | [Jobscout #1677304 source](https://jobs.lever.co/jobgether/0146bb68-2a27-4b6c-8408-9cb94702ee29) |
+| Jobgether | Product Manager | Ireland | 2026-10-21 | Not stated; estimate unavailable | [Jobscout #1479633 source](https://jobs.lever.co/jobgether/ec62ad63-ab26-4969-abdc-c660164919f7) |
+| Jobgether | Product Manager | Romania | 2026-10-21 | Not stated; estimate unavailable | [Jobscout #1479632 source](https://jobs.lever.co/jobgether/e98457bf-39ba-446d-bb04-07f62d96c21d) |
+| Jobgether | Product Manager | Italy | 2026-10-21 | Not stated; estimate unavailable | [Jobscout #1479631 source](https://jobs.lever.co/jobgether/d579c459-2964-4c13-809e-a4531534e96f) |
+| Jobgether | Product Manager | Germany | 2026-10-21 | Not stated; estimate unavailable | [Jobscout #1479630 source](https://jobs.lever.co/jobgether/cdf8dc95-a8a9-4dd8-9a5d-aa6355447110) |
+| Jobgether | Product Manager | UK | 2026-10-21 | Not stated; estimate unavailable | [Jobscout #1479629 source](https://jobs.lever.co/jobgether/ca7834e0-7b5f-4dd3-a2bf-3589cafce227) |
+| Jobgether | Product Manager | Spain | 2026-10-21 | Not stated; estimate unavailable | [Jobscout #1479628 source](https://jobs.lever.co/jobgether/915f1a96-31d1-439d-a99d-570750c87c99) |
+| Jobgether | Product Manager | Portugal | 2026-10-21 | Not stated; estimate unavailable | [Jobscout #1479626 source](https://jobs.lever.co/jobgether/16ddc3f1-1d6c-496b-85f9-5f5db3409775) |
+| Jobgether | Product Manager | France | 2026-10-21 | Not stated; estimate unavailable | [Jobscout #1479625 source](https://jobs.lever.co/jobgether/08f79629-4b45-48c3-9944-b2f83f8cccdc) |
+| Jobgether | Product Manager | Switzerland | 2026-10-21 | Not stated; estimate unavailable | [Jobscout #1479624 source](https://jobs.lever.co/jobgether/06045971-f50b-4015-8cde-bdd277b177fc) |
+| Jobgether | Product Manager | Netherlands | 2026-10-21 | Not stated; estimate unavailable | [Jobscout #1479615 source](https://jobs.lever.co/jobgether/035d9219-afac-49b0-9eae-7b18c9779cc2) |
 | Jobgether | Technical Product Manager | Germany | 2026-10-20 | Not stated; estimate unavailable | [Jobscout #1480874 source](https://jobs.lever.co/jobgether/f472aa90-0177-4345-b020-0ccde1d2f089) |
 | Jobgether | Technical Product Manager | Switzerland | 2026-10-20 | Not stated; estimate unavailable | [Jobscout #1480873 source](https://jobs.lever.co/jobgether/f34bbef3-10f3-4baa-b4af-9696ba6bfbc1) |
 | Jobgether | Technical Product Manager | Ireland | 2026-10-20 | Not stated; estimate unavailable | [Jobscout #1480871 source](https://jobs.lever.co/jobgether/dd5bcb4a-a20d-4e14-8b90-67571a20a04b) |
@@ -80,13 +90,5 @@ These are API summaries, NOT confirmed eligible jobs. Region is an API location 
 | Jobgether | Product Manager, Corporate Actions | France | 2026-10-20 | USD 500.0 / month | [Jobscout #1479668 source](https://jobs.lever.co/jobgether/24e1385a-7e87-4c19-8f47-bc222a9f54df) |
 | Jobgether | Product Manager, Corporate Actions | UK | 2026-10-20 | USD 500.0 / month | [Jobscout #1479662 source](https://jobs.lever.co/jobgether/23b4a2c0-1e2c-46e9-a3cf-f01e95503359) |
 | Jobgether | Product Manager, Corporate Actions | Ireland | 2026-10-20 | USD 500.0 / month | [Jobscout #1479651 source](https://jobs.lever.co/jobgether/0f1a16b0-3112-4837-a79c-2b8a64bb9fc4) |
-| Jobgether | Product Manager | Ireland | 2026-10-21 | Not stated; estimate unavailable | [Jobscout #1479633 source](https://jobs.lever.co/jobgether/ec62ad63-ab26-4969-abdc-c660164919f7) |
-| Jobgether | Product Manager | Romania | 2026-10-21 | Not stated; estimate unavailable | [Jobscout #1479632 source](https://jobs.lever.co/jobgether/e98457bf-39ba-446d-bb04-07f62d96c21d) |
-| Jobgether | Product Manager | Italy | 2026-10-21 | Not stated; estimate unavailable | [Jobscout #1479631 source](https://jobs.lever.co/jobgether/d579c459-2964-4c13-809e-a4531534e96f) |
-| Jobgether | Product Manager | Germany | 2026-10-21 | Not stated; estimate unavailable | [Jobscout #1479630 source](https://jobs.lever.co/jobgether/cdf8dc95-a8a9-4dd8-9a5d-aa6355447110) |
-| Jobgether | Product Manager | UK | 2026-10-21 | Not stated; estimate unavailable | [Jobscout #1479629 source](https://jobs.lever.co/jobgether/ca7834e0-7b5f-4dd3-a2bf-3589cafce227) |
-| Jobgether | Product Manager | Spain | 2026-10-21 | Not stated; estimate unavailable | [Jobscout #1479628 source](https://jobs.lever.co/jobgether/915f1a96-31d1-439d-a99d-570750c87c99) |
-| Jobgether | Product Manager | Portugal | 2026-10-21 | Not stated; estimate unavailable | [Jobscout #1479626 source](https://jobs.lever.co/jobgether/16ddc3f1-1d6c-496b-85f9-5f5db3409775) |
-| Jobgether | Product Manager | France | 2026-10-21 | Not stated; estimate unavailable | [Jobscout #1479625 source](https://jobs.lever.co/jobgether/08f79629-4b45-48c3-9944-b2f83f8cccdc) |
-| Jobgether | Product Manager | Switzerland | 2026-10-21 | Not stated; estimate unavailable | [Jobscout #1479624 source](https://jobs.lever.co/jobgether/06045971-f50b-4015-8cde-bdd277b177fc) |
-| Jobgether | Product Manager | Netherlands | 2026-10-21 | Not stated; estimate unavailable | [Jobscout #1479615 source](https://jobs.lever.co/jobgether/035d9219-afac-49b0-9eae-7b18c9779cc2) |
+| Unknown Company | DeFi Product Manager, Bolt⚡️ | Unknown | 2025-12-16 | Not stated; estimate unavailable | [Jobscout #2140472 source](https://myweb3jobs.com/job/defi-product-manager-bolt%e2%9a%a1%ef%b8%8f/) |
+| Unknown Company | Technical Product Manager, Bolt DeFi⚡️ | Unknown | 2025-10-08 | Not stated; estimate unavailable | [Jobscout #2144808 source](https://myweb3jobs.com/job/technical-product-manager-bolt-defi%e2%9a%a1%ef%b8%8f/) |
