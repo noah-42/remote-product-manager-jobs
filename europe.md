@@ -2,6 +2,8 @@
 
 [All job listings](https://github.com/noah-42/job-listings) · [PM directory](README.md) · [Discovery catalogue](discovery.md) · [CSV](data/jobs.csv) · [JSON](data/jobs.json)
 
+Current GitHub window: posting dates 2026-05-12 onward (rolling six calendar months). Older and unknown-date records are excluded from this visible list and current exports. [Full source archive](archive-all-records.json) retains all records; no source database records were changed. Logos: fixed 90px width, aspect ratio preserved.
+
 13 listings. Remote and remote-first; routine hybrid excluded. API-only means employer availability has not been rechecked. More matches are being screened. 🇬🇧 English sufficient · 🇩🇪 German required · Unclear: not confirmed.
 
 | Logo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Company | Title | Posted (2026) | Location | Pay range | Language | Requirements |
