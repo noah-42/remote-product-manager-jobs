@@ -7,7 +7,7 @@
       "region": "USA",
       "company": "Twin Health",
       "role": "Principal Product Manager, New Programs",
-      "permitted_worker_location": "USA only; existing US work authorization; no visa sponsorship",
+      "permitted_worker_location": "USA; existing US work authorization; no sponsorship",
       "requirements": "7+ years PM; consumer products; 0-to-1 and scaling; experimentation; mobile/AI collaboration",
       "language": "Not explicitly stated",
       "pay": "$205,000-$235,000 USD/year",
@@ -21,22 +21,24 @@
       "employer_checked": false,
       "note": "API and linked aggregator identify US remote. Exact employer ad not rechecked; no assertion of zero travel.",
       "icon": "assets/5-twinhealth.com.svg",
-      "pay_range": "USD 160,000 - 235,000 / period not supplied",
+      "pay_range": "USD 160,000-235,000 API fields; description USD 205,000-235,000/year; source conflict",
       "pay_basis": "Stated employer/API range; base vs total only when stated, no market estimate",
       "detail_screened": true,
       "company_id": 34559,
       "company_domain": "twinhealth.com",
       "company_url_source": "Jobscout company_summary.website_url",
       "company_name_source": "Jobscout company",
-      "language_basis": "Existing source evidence pending API-only reconciliation"
+      "language_basis": "Existing source evidence pending API-only reconciliation",
+      "api_field_audit": "Requirements,location,pay,language reviewed against Jobscout detail2026-11-12",
+      "api_audit_source": "https://api.noah42.com/jobscout/v1/jobs/3427197"
     },
     {
       "jobscout_id": 3414426,
       "region": "USA",
       "company": "Liftoff",
       "role": "Senior Staff Product Manager, eCommerce, Remote Job",
-      "permitted_worker_location": "CA,CO,ID,IL,FL,GA,MA,MI,MN,MO,NJ,NV,NY,OR,PA,TX,UT,WA only",
-      "requirements": "8+ years PM; performance advertising",
+      "permitted_worker_location": "18 US states (see sources); Pacific preferred; quarterly gatherings",
+      "requirements": "8+ years PM; performance advertising; identity/attribution; ML campaign optimization; cross-functional leadership",
       "language": "Not explicitly stated",
       "pay": "Not stated",
       "company_url": "https://liftoff.ai/",
@@ -49,7 +51,7 @@
       "employer_checked": false,
       "note": "Remote-first; allowedUSstates explicitly listed; API detail-backed, employer not rechecked.",
       "icon": "assets/2-hub-liftoff.ai.png",
-      "pay_range": "USD 230,000 - 280,000 / period not supplied",
+      "pay_range": "USD 198,000-280,000/year across 3 location bands; see sources",
       "pay_basis": "Stated employer/API range; base vs total only when stated, no market estimate",
       "detail_screened": true,
       "company_id": 36925,
@@ -58,15 +60,17 @@
       "company_name_source": "Jobscout company",
       "language_basis": "Existing source evidence pending API-only reconciliation",
       "icon_source": "Favicon Hub matched API company domain",
-      "icon_status": "ready"
+      "icon_status": "ready",
+      "api_field_audit": "Requirements,location,pay,language reviewed against Jobscout detail2026-11-12",
+      "api_audit_source": "https://api.noah42.com/jobscout/v1/jobs/3414426"
     },
     {
       "jobscout_id": 3319755,
       "region": "Europe",
       "company": "Jupus",
       "role": "Senior Product Manager",
-      "permitted_worker_location": "Remote within CET +/-2 hours; employment-country coverage not listed",
-      "requirements": "3+ years B2B SaaS PM; shipped AI features; startup/scale-up; customer discovery",
+      "permitted_worker_location": "CET +/-2 hours; hiring countries not stated",
+      "requirements": "3+ years B2B SaaS PM; shipped AI features; startup/scale-up; English and German C1",
       "language": "English + German C1",
       "pay": "Not stated",
       "company_url": "https://jupus.de/",
@@ -86,15 +90,17 @@
       "company_domain": "jupus.de",
       "company_url_source": "Jobscout company_summary.website_url",
       "company_name_source": "Jobscout company",
-      "language_basis": "Existing source evidence pending API-only reconciliation"
+      "language_basis": "Existing source evidence pending API-only reconciliation",
+      "api_field_audit": "Requirements,location,pay,language reviewed against Jobscout detail2026-11-12",
+      "api_audit_source": "https://api.noah42.com/jobscout/v1/jobs/3319755"
     },
     {
       "jobscout_id": 3339405,
       "region": "Europe",
       "company": "Openprovider",
       "role": "Senior Product Manager - Fully Remote",
-      "permitted_worker_location": "Employer says any location; named Europe locations include Croatia, Bulgaria, Estonia and Greece; confirm contracting eligibility",
-      "requirements": "Senior; SSL/TLS, email hosting, Plesk; supplier negotiation; P&L/pricing; Agile projects; analytics",
+      "permitted_worker_location": "100% remote; eligible countries not stated in API; Europe eligibility unconfirmed",
+      "requirements": "SSL/TLS, email hosting, Plesk; supplier negotiation; P&L/pricing; Agile projects; analytics and AI tools",
       "language": "Not explicitly stated",
       "pay": "Not stated",
       "company_url": "",
@@ -114,15 +120,18 @@
       "company_domain": null,
       "company_url_source": "Jobscout company_summary.website_url",
       "company_name_source": "Jobscout company",
-      "language_basis": "Existing source evidence pending API-only reconciliation"
+      "language_basis": "Existing source evidence pending API-only reconciliation",
+      "api_field_audit": "Requirements,location,pay,language reviewed against Jobscout detail2026-11-12",
+      "api_audit_source": "https://api.noah42.com/jobscout/v1/jobs/3339405",
+      "qualification_status": "Remote geography unresolved; retained pending API fix"
     },
     {
       "jobscout_id": 3365171,
       "region": "Europe",
       "company": "Scopely",
       "role": "Senior Technical Product Manager",
-      "permitted_worker_location": "UK, Portugal or Ireland remote; Barcelona hybrid excluded",
-      "requirements": "Senior technical PM; game development/platform delivery",
+      "permitted_worker_location": "UK, Portugal, Ireland remote; Barcelona hybrid excluded",
+      "requirements": "Technical PM in games; system-level specifications; backlog delivery; technical trade-offs; software engineering a plus",
       "language": "Not explicitly stated",
       "pay": "Not stated",
       "company_url": "https://www.scopely.com/",
@@ -147,15 +156,17 @@
       "icon_checked_sources": [
         "Jobscout",
         "Favicon Hub"
-      ]
+      ],
+      "api_field_audit": "Requirements,location,pay,language reviewed against Jobscout detail2026-11-12",
+      "api_audit_source": "https://api.noah42.com/jobscout/v1/jobs/3365171"
     },
     {
       "jobscout_id": 3428418,
       "region": "USA",
       "company": "Veradigm\u00ae",
       "role": "Principal Product Manager - Salesforce CPQ & Agentforce",
-      "permitted_worker_location": "USA remote; North Carolina listing",
-      "requirements": "Principal PM; Salesforce CPQ and Agentforce",
+      "permitted_worker_location": "USA remote; API location North Carolina; work authorization required",
+      "requirements": "10+ years PM/business systems; 5+ years quote-to-cash; Salesforce CPQ; degree or equivalent; US/Canada work authorization; no sponsorship",
       "language": "Not explicitly stated",
       "pay": "Not stated",
       "company_url": "",
@@ -180,15 +191,17 @@
       "icon_checked_sources": [
         "Jobscout",
         "Favicon Hub"
-      ]
+      ],
+      "api_field_audit": "Requirements,location,pay,language reviewed against Jobscout detail2026-11-12",
+      "api_audit_source": "https://api.noah42.com/jobscout/v1/jobs/3428418"
     },
     {
       "jobscout_id": 3377550,
       "region": "USA",
       "company": "Credo AI",
       "role": "Product Manager, Integrations",
-      "permitted_worker_location": "USA; Pacific Time Zone preferred",
-      "requirements": "5+ years PM; integrations/developer platforms/APIs; enterprise SaaS; AI governance",
+      "permitted_worker_location": "USA; Pacific preferred; offsites multiple times/year",
+      "requirements": "5+ years PM; integration/developer platforms/APIs; identity/security tooling; partnerships; can read code",
       "language": "Not explicitly stated",
       "pay": "$170,000-$190,000 USD base/year",
       "company_url": "https://www.credo.ai/",
@@ -208,15 +221,17 @@
       "company_domain": "credo.ai",
       "company_url_source": "Jobscout company_summary.website_url",
       "company_name_source": "Jobscout company",
-      "language_basis": "Existing source evidence pending API-only reconciliation"
+      "language_basis": "Existing source evidence pending API-only reconciliation",
+      "api_field_audit": "Requirements,location,pay,language reviewed against Jobscout detail2026-11-12",
+      "api_audit_source": "https://api.noah42.com/jobscout/v1/jobs/3377550"
     },
     {
       "jobscout_id": 3330397,
       "region": "USA",
       "company": "Coinbase",
       "role": "Senior Product Manager, Simple Trading",
-      "permitted_worker_location": "USA remote",
-      "requirements": "5+ years PM; 2+ years trading/fintech/marketplaces; SQL; experimentation",
+      "permitted_worker_location": "USA remote; attendance not stated in API",
+      "requirements": "5+ years PM; 2+ years trading/fintech/marketplaces; consumer UI; SQL; experimentation",
       "language": "English sufficient",
       "pay": "Not stated",
       "company_url": "https://www.coinbase.com/en-de",
@@ -236,7 +251,9 @@
       "company_domain": "coinbase.com",
       "company_url_source": "Jobscout company_summary.website_url",
       "company_name_source": "Jobscout company",
-      "language_basis": "User-approved display assumption: API company HQ USA and API posting language English"
+      "language_basis": "User-approved display assumption: API company HQ USA and API posting language English",
+      "api_field_audit": "Requirements,location,pay,language reviewed against Jobscout detail2026-11-12",
+      "api_audit_source": "https://api.noah42.com/jobscout/v1/jobs/3330397"
     },
     {
       "jobscout_id": 3436552,
