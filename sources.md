@@ -289,3 +289,11 @@ Research details moved from the regional job pages; checked Nov 12, 2026.
 - Date source: Jobscout date_posted.
 - Pay: USD 101,200 - 161,900 / year. Stated employer/API range; base vs total only when stated, no market estimate.
 - [Listing](https://careers-hrblock.icims.com/jobs/79568/senior-product-manager%2c-spruce/job) · [Original API source](https://careers-hrblock.icims.com/jobs/79568/senior-product-manager%2c-spruce/job)
+
+## API-only field audit: first 8 records, Nov 12
+
+- Twin Health #3427197: API salary fields say USD 160,000-235,000; API description says USD 205,000-235,000 annually. Both remain visible as an upstream source conflict.
+- Liftoff #3414426: three location bands, USD 198,000-240,000, USD 211,000-257,000, and USD 230,000-280,000 base. Approved states: CA, CO, ID, IL, FL, GA, MA, MI, MN, MO, NJ, NV, NY, OR, PA, TX, UT, WA. Pacific preferred; quarterly gatherings.
+- Openprovider #3339405: API says 100% remote but does not name eligible countries. Earlier external country examples are not API verified and are no longer current displayed facts. Retained pending geography resolution.
+- Coinbase #3330397: API does not mention quarterly attendance. The older external attendance note is historical, not current API evidence.
+- Requirements, location, pay and language reviewed for IDs 3427197, 3414426, 3319755, 3339405, 3365171, 3428418, 3377550 and 3330397. Remaining 24 rows await this review.
