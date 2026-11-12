@@ -1,10 +1,10 @@
-# Full Jobscout discovery coverage
+# Jobscout discovery coverage
 
 [All job listings](https://github.com/noah-42/job-listings) · [Screened Europe](europe.md) · [Screened USA](usa.md)
 
-27 pages exhausted, 5,307 raw global records for active remote Product Manager title tokens with a 200+ character description. Final cursor: null. This is NOT 5,307 eligible jobs. Query title tokens also return product marketing and other false positives.
+First pass: 27 pages exhausted, 5,307 raw global records for active remote Product Manager title tokens with a 200+ character description. Final cursor: null. This is NOT 5,307 eligible jobs. Query title tokens also return product marketing and other false positives.
 
-1,236 clear title/junior/exact-URL exclusions; 4,071 title-triaged candidates, including 1,695 USA-hint, 684 Europe-hint and 1,692 other/unknown. Region hints do not establish hiring eligibility. Full-detail screening and semantic dedup continue. Missing-description records are not covered by this first complete=true pass and remain a discovery gap.
+1,236 clear title/junior/exact-URL exclusions; 4,071 title-triaged candidates, including 1,695 USA-hint, 684 Europe-hint and 1,692 other/unknown. Region hints do not establish hiring eligibility. Full-detail screening and semantic dedup continue. The second pass omitted complete=true and exhausted 28 pages, returning 5,540 records. [233 additional raw matches](catalogue/additional-233.md) are separate and unassessed; this closes the missing-description discovery gap for this query, not eligibility screening.
 
 [Raw summaries CSV/JSON and title exclusions (ZIP)](1-discovery-data.zip)
 
