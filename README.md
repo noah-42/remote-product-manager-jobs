@@ -2,15 +2,15 @@
 
 [All job listings](https://github.com/noah-42/job-listings) · [Berlin internships](https://github.com/noah-42/berlin-internships)
 
-Mid-to-senior PM jobs by permitted worker location, not company headquarters.
-
-| List | Listings |
+| Detail-screened/API-backed list | Listings |
 | :--- | ---: |
-| [Europe-based remote and remote-first](europe.md) | 9 |
-| [USA-based remote and remote-first](usa.md) | 11 |
+| [Europe remote and remote-first](europe.md) | 11 |
+| [USA remote and remote-first](usa.md) | 21 |
 
-Updated Nov 12, 2026. Expanded API-first snapshot, not complete coverage. No automatic refresh configured.
+## Full discovery coverage
 
-[Download CSV](data/jobs.csv) · [Download JSON](data/jobs.json)
+[Complete discovery catalogue](discovery.md):5,307 raw API records across 27 pages,4,071 title-triaged candidates. These are NOT confirmed eligible totals. Screening continues; see exact limits and candidate/exclusion exports. Missing-description ads are a separate remaining discovery gap.
 
-Jobscout discovery/details first, employer checks separately. Country limits, office visits and travel are labeled. Remote-first is included; routine hybrid/on-site is excluded. Requirements and language unknowns remain explicit.
+[Screened jobs CSV](data/jobs.csv) · [Screened jobs JSON](data/jobs.json)
+
+Updated Nov 12, 2026. Remote-first accepted; routine hybrid/on-site excluded. Required travel labeled. No automatic refresh configured.
