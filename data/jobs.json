@@ -123,7 +123,7 @@
       "role": "Senior Technical Product Manager",
       "permitted_worker_location": "UK, Portugal or Ireland remote; Barcelona hybrid excluded",
       "requirements": "Senior technical PM; game development/platform delivery",
-      "language": "English sufficient",
+      "language": "Not explicitly stated",
       "pay": "Not stated",
       "company_url": "https://www.scopely.com/",
       "job_url": "https://hitmarker.net/jobs/scopely-senior-technical-product-manager-5579306",
@@ -142,7 +142,12 @@
       "company_domain": "scopely.com",
       "company_url_source": "Jobscout company_summary.website_url",
       "company_name_source": "Jobscout company",
-      "language_basis": "User-approved display assumption: API company HQ USA and API posting language English"
+      "language_basis": "Europe English ad alone is not sufficient evidence",
+      "icon_status": "checked_fix_required",
+      "icon_checked_sources": [
+        "Jobscout",
+        "Favicon Hub"
+      ]
     },
     {
       "jobscout_id": 3428418,
@@ -170,7 +175,12 @@
       "company_domain": null,
       "company_url_source": "Jobscout company_summary.website_url",
       "company_name_source": "Jobscout company",
-      "language_basis": "Existing source evidence pending API-only reconciliation"
+      "language_basis": "Existing source evidence pending API-only reconciliation",
+      "icon_status": "checked_fix_required",
+      "icon_checked_sources": [
+        "Jobscout",
+        "Favicon Hub"
+      ]
     },
     {
       "jobscout_id": 3377550,
@@ -276,7 +286,7 @@
       "api_checked_at": "2026-11-12T16:38:00+01:00",
       "employer_checked": false,
       "note": "Role-specific fullyremoteUS statement supersedes generic hybrid benefits; API detail-backed, employer not rechecked.",
-      "icon": "",
+      "icon": "assets/1-api-company-5484.png",
       "pay_range": "Not stated; estimate unavailable",
       "pay_basis": "Stated employer/API range; base vs total only when stated, no market estimate",
       "detail_screened": true,
@@ -284,7 +294,9 @@
       "company_domain": "hardrockdigital.com",
       "company_url_source": "Jobscout company_summary.website_url",
       "company_name_source": "Jobscout company",
-      "language_basis": "User-approved display assumption: API company HQ USA and API posting language English"
+      "language_basis": "User-approved display assumption: API company HQ USA and API posting language English",
+      "icon_source": "Exact logo asset URL from Jobscout API canonical company record",
+      "icon_status": "ready"
     },
     {
       "jobscout_id": 3401439,
@@ -362,7 +374,7 @@
       "api_checked_at": "2026-11-12T16:27:00+01:00",
       "employer_checked": true,
       "note": "Remote location in API and employer ad; confirm state eligibility",
-      "icon": "",
+      "icon": "assets/2-api-company-7078.jpg",
       "pay_range": "USD 145,000 - 185,000 / year",
       "pay_basis": "Stated employer/API range; base vs total only when stated, no market estimate",
       "detail_screened": true,
@@ -370,7 +382,9 @@
       "company_domain": "movableink.com",
       "company_url_source": "Jobscout company_summary.website_url",
       "company_name_source": "Jobscout company",
-      "language_basis": "Existing source evidence pending API-only reconciliation"
+      "language_basis": "Existing source evidence pending API-only reconciliation",
+      "icon_source": "Exact logo asset URL from Jobscout API canonical company record",
+      "icon_status": "ready"
     },
     {
       "jobscout_id": 3390345,
@@ -390,7 +404,7 @@
       "api_checked_at": "2026-11-12T16:27:00+01:00",
       "employer_checked": true,
       "note": "Separate Data Interfaces role, not duplicate of Integrations",
-      "icon": "",
+      "icon": "assets/2-api-company-7078.jpg",
       "pay_range": "USD 145,500 - 185,000 / year",
       "pay_basis": "Stated employer/API range; base vs total only when stated, no market estimate",
       "detail_screened": true,
@@ -398,7 +412,9 @@
       "company_domain": "movableink.com",
       "company_url_source": "Jobscout company_summary.website_url",
       "company_name_source": "Jobscout company",
-      "language_basis": "Existing source evidence pending API-only reconciliation"
+      "language_basis": "Existing source evidence pending API-only reconciliation",
+      "icon_source": "Exact logo asset URL from Jobscout API canonical company record",
+      "icon_status": "ready"
     },
     {
       "jobscout_id": 3292234,
@@ -478,7 +494,7 @@
       "api_checked_at": "2026-11-12T16:38:00+01:00",
       "employer_checked": false,
       "note": "RemoteUSA listing; detailed state restrictions not stated; API detail-backed, employer not rechecked.",
-      "icon": "",
+      "icon": "assets/3-api-company-120537.svg",
       "pay_range": "USD 170,000 - 200,000 / period not supplied",
       "pay_basis": "Stated employer/API range; base vs total only when stated, no market estimate",
       "detail_screened": true,
@@ -486,7 +502,9 @@
       "company_domain": "datavant.com",
       "company_url_source": "Jobscout company_summary.website_url",
       "company_name_source": "Jobscout company",
-      "language_basis": "User-approved display assumption: API company HQ USA and API posting language English"
+      "language_basis": "User-approved display assumption: API company HQ USA and API posting language English",
+      "icon_source": "Exact logo asset URL from Jobscout API canonical company record",
+      "icon_status": "ready"
     },
     {
       "jobscout_id": 3297910,
@@ -506,7 +524,7 @@
       "api_checked_at": "2026-11-12T16:38:00+01:00",
       "employer_checked": false,
       "note": "Fullyremote benefit; country based onAPIlisting,confirmhiringstate; API detail-backed, employer not rechecked.",
-      "icon": "",
+      "icon": "assets/4-api-company-67950.png",
       "pay_range": "USD 163,200 - 306,000 / period not supplied",
       "pay_basis": "Stated employer/API range; base vs total only when stated, no market estimate",
       "detail_screened": true,
@@ -514,7 +532,9 @@
       "company_domain": "sandboxaq.com",
       "company_url_source": "Jobscout company_summary.website_url",
       "company_name_source": "Jobscout company",
-      "language_basis": "Existing source evidence pending API-only reconciliation"
+      "language_basis": "Existing source evidence pending API-only reconciliation",
+      "icon_source": "Exact logo asset URL from Jobscout API canonical company record",
+      "icon_status": "ready"
     },
     {
       "jobscout_id": 3185584,
@@ -572,7 +592,12 @@
       "company_domain": "splashfinancial.com",
       "company_url_source": "Jobscout company_summary.website_url",
       "company_name_source": "Jobscout company",
-      "language_basis": "Existing source evidence pending API-only reconciliation"
+      "language_basis": "Existing source evidence pending API-only reconciliation",
+      "icon_status": "checked_fix_required",
+      "icon_checked_sources": [
+        "Jobscout",
+        "Favicon Hub"
+      ]
     },
     {
       "jobscout_id": 2428142,
@@ -592,7 +617,7 @@
       "api_checked_at": "2026-11-12T16:27:00+01:00",
       "employer_checked": false,
       "note": "Remote-first; employer availability not rechecked",
-      "icon": "",
+      "icon": "assets/5-api-company-2125180.png",
       "pay_range": "Not stated; estimate unavailable",
       "pay_basis": "Stated employer/API range; base vs total only when stated, no market estimate",
       "detail_screened": true,
@@ -600,7 +625,9 @@
       "company_domain": "spottedzebra.co.uk",
       "company_url_source": "Jobscout company_summary.website_url",
       "company_name_source": "Jobscout company",
-      "language_basis": "Existing source evidence pending API-only reconciliation"
+      "language_basis": "Existing source evidence pending API-only reconciliation",
+      "icon_source": "Exact logo asset URL from Jobscout API canonical company record",
+      "icon_status": "ready"
     },
     {
       "jobscout_id": 2514280,
@@ -620,7 +647,7 @@
       "api_checked_at": "2026-11-12T16:27:00+01:00",
       "employer_checked": false,
       "note": "Remote-first; 1-year contract; some roles country/time-zone restricted",
-      "icon": "",
+      "icon": "assets/6-api-company-90642.png",
       "pay_range": "Not stated; estimate unavailable",
       "pay_basis": "Stated employer/API range; base vs total only when stated, no market estimate",
       "detail_screened": true,
@@ -628,7 +655,9 @@
       "company_domain": "roompricegenie.com",
       "company_url_source": "Jobscout company_summary.website_url",
       "company_name_source": "Jobscout company",
-      "language_basis": "Existing source evidence pending API-only reconciliation"
+      "language_basis": "Existing source evidence pending API-only reconciliation",
+      "icon_source": "Exact logo asset URL from Jobscout API canonical company record",
+      "icon_status": "ready"
     },
     {
       "jobscout_id": 1339738,
@@ -637,7 +666,7 @@
       "role": "Staff Product Manager, Enterprise Deployment Solutions | Germany | Remote",
       "permitted_worker_location": "Germany only for this listing",
       "requirements": "5+ years technical B2B PM or technical background; enterprise deployments",
-      "language": "English sufficient",
+      "language": "Not explicitly stated",
       "pay": "Not stated",
       "company_url": "https://grafana.com/",
       "job_url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6227916004",
@@ -648,7 +677,7 @@
       "api_checked_at": "2026-11-12T16:27:00+01:00",
       "employer_checked": true,
       "note": "Fully remote; globally distributed teams",
-      "icon": "",
+      "icon": "assets/7-api-company-68149.png",
       "pay_range": "EUR 124,571 - 149,485 / period not supplied",
       "pay_basis": "Stated employer/API range; base vs total only when stated, no market estimate",
       "detail_screened": true,
@@ -656,7 +685,9 @@
       "company_domain": "grafana.com",
       "company_url_source": "Jobscout company_summary.website_url",
       "company_name_source": "Jobscout company",
-      "language_basis": "User-approved display assumption: API company HQ USA and API posting language English"
+      "language_basis": "Europe English ad alone is not sufficient evidence",
+      "icon_source": "Exact logo asset URL from Jobscout API canonical company record",
+      "icon_status": "ready"
     },
     {
       "jobscout_id": 3284082,
@@ -676,7 +707,7 @@
       "api_checked_at": "2026-11-12T16:27:00+01:00",
       "employer_checked": false,
       "note": "Global remote workforce; exact hiring-country coverage beyond preferences not stated",
-      "icon": "",
+      "icon": "assets/8-api-company-44665.png",
       "pay_range": "Not stated; estimate unavailable",
       "pay_basis": "Stated employer/API range; base vs total only when stated, no market estimate",
       "detail_screened": true,
@@ -684,7 +715,9 @@
       "company_domain": "mazehq.com",
       "company_url_source": "Jobscout company_summary.website_url",
       "company_name_source": "Jobscout company",
-      "language_basis": "Existing source evidence pending API-only reconciliation"
+      "language_basis": "Existing source evidence pending API-only reconciliation",
+      "icon_source": "Exact logo asset URL from Jobscout API canonical company record",
+      "icon_status": "ready"
     },
     {
       "jobscout_id": 2577939,
@@ -704,7 +737,7 @@
       "api_checked_at": "2026-11-12T16:27:00+01:00",
       "employer_checked": true,
       "note": "Remote foundation; team gatherings mentioned",
-      "icon": "",
+      "icon": "assets/9-api-company-82988.png",
       "pay_range": "Not stated; estimate unavailable",
       "pay_basis": "Stated employer/API range; base vs total only when stated, no market estimate",
       "detail_screened": true,
@@ -712,7 +745,9 @@
       "company_domain": "upsun.com",
       "company_url_source": "Jobscout company_summary.website_url",
       "company_name_source": "Jobscout company",
-      "language_basis": "Existing source evidence pending API-only reconciliation"
+      "language_basis": "Existing source evidence pending API-only reconciliation",
+      "icon_source": "Exact logo asset URL from Jobscout API canonical company record",
+      "icon_status": "ready"
     },
     {
       "jobscout_id": 3338664,
@@ -732,7 +767,7 @@
       "api_checked_at": "2026-11-12T16:38:00+01:00",
       "employer_checked": false,
       "note": "Fully remote with up to30%travel toclient sites/companyevents; API detail-backed, employer not rechecked.",
-      "icon": "",
+      "icon": "assets/10-api-company-68285.png",
       "pay_range": "Not stated; estimate unavailable",
       "pay_basis": "Stated employer/API range; base vs total only when stated, no market estimate",
       "detail_screened": true,
@@ -740,7 +775,9 @@
       "company_domain": "higharc.com",
       "company_url_source": "Jobscout company_summary.website_url",
       "company_name_source": "Jobscout company",
-      "language_basis": "Existing source evidence pending API-only reconciliation"
+      "language_basis": "Existing source evidence pending API-only reconciliation",
+      "icon_source": "Exact logo asset URL from Jobscout API canonical company record",
+      "icon_status": "ready"
     },
     {
       "jobscout_id": 447009,
@@ -820,7 +857,7 @@
       "api_checked_at": "2026-11-12T16:38:00+01:00",
       "employer_checked": false,
       "note": "Remote within employment country; office optional; API detail-backed, employer not rechecked.",
-      "icon": "",
+      "icon": "assets/11-api-company-6808.png",
       "pay_range": "USD 154,000 - 265,000 / period not supplied",
       "pay_basis": "Stated employer/API range; base vs total only when stated, no market estimate",
       "detail_screened": true,
@@ -828,7 +865,9 @@
       "company_domain": "workiva.com",
       "company_url_source": "Jobscout company_summary.website_url",
       "company_name_source": "Jobscout company",
-      "language_basis": "Existing source evidence pending API-only reconciliation"
+      "language_basis": "Existing source evidence pending API-only reconciliation",
+      "icon_source": "Exact logo asset URL from Jobscout API canonical company record",
+      "icon_status": "ready"
     },
     {
       "jobscout_id": 3387594,
@@ -886,7 +925,12 @@
       "company_domain": "chamberlaingroup.com",
       "company_url_source": "Jobscout company_summary.website_url",
       "company_name_source": "Jobscout company",
-      "language_basis": "Existing source evidence pending API-only reconciliation"
+      "language_basis": "Existing source evidence pending API-only reconciliation",
+      "icon_status": "checked_fix_required",
+      "icon_checked_sources": [
+        "Jobscout",
+        "Favicon Hub"
+      ]
     },
     {
       "jobscout_id": 3279186,
