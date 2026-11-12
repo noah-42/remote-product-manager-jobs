@@ -1,104 +1,36 @@
 # Remote Product Manager jobs: USA
 
-Mid-to-senior product management. Updated Nov 12, 2026. 11 listings.
+Updated Nov 12, 2026. 21 listings. More Jobscout matches are being screened.
 
-[All job listings](https://github.com/noah-42/job-listings) · [Berlin internships](https://github.com/noah-42/berlin-internships) · [PM directory](README.md) · [Europe](europe.md) · [USA](usa.md) · [CSV](data/jobs.csv) · [JSON](data/jobs.json)
+[All job listings](https://github.com/noah-42/job-listings) · [Berlin internships](https://github.com/noah-42/berlin-internships) · [PM directory](README.md) · [Full discovery catalogue](discovery.md) · [Europe](europe.md) · [USA](usa.md) · [CSV](data/jobs.csv) · [JSON](data/jobs.json) · [Sources](sources.md)
 
-Remote and remote-first roles included. Region means permitted worker location, not headquarters. Office visits and team travel are labeled; routine hybrid/on-site roles excluded. Country employment eligibility may still need confirmation.
+Remote and remote-first included. Country limits and office visits/travel are labeled. A listing is not a personal eligibility recommendation. Detail-screened differs from employer-rechecked.
 
-| Logo | Company / role | Posted (2026) | Remote worker location | Requirements / language |
-| :---: | :--- | :--- | :--- | :--- |
-| <img src="assets/5-twinhealth.com.svg" width="56" alt="Twin Health"> | [Twin Health](https://twinhealth.com)<br>[Principal Product Manager, New Programs](https://sportstechjobs.com/principal-product-manager-new-programs-twin-health/6af52e5e2bf7e191ea99e751) | 11-12 | USA only; existing US work authorization; no visa sponsorship | 7+ years PM; consumer products; 0-to-1 and scaling; experimentation; mobile/AI collaboration<br>Language: Not explicitly stated |
-| <img src="assets/4-credo.ai.png" width="56" alt="Credo AI"> | [Credo AI](https://credo.ai)<br>[Product Manager, Integrations](https://jobs.ashbyhq.com/credo.ai/d727dd55-8e73-493e-b2c8-dcb366dca88f) | 11-10 | USA; Pacific Time Zone preferred | 5+ years PM; integrations/developer platforms/APIs; enterprise SaaS; AI governance<br>Language: Not explicitly stated |
-| <img src="assets/6-coinbase.com.png" width="56" alt="Coinbase"> | [Coinbase](https://www.coinbase.com)<br>[Senior Product Manager, Simple Trading](https://www.coinbase.com/careers/positions/8374607?gh_jid=8374607) | 11-10 | USA remote | 5+ years PM; 2+ years trading/fintech/marketplaces; SQL; experimentation<br>Language: Not explicitly stated |
-| Icon research pending | Delinea<br>[Senior Product Manager - Non-Human Identity Security](https://jobs.ashbyhq.com/delinea/870e5dea-9a82-4a95-941e-34b5caacde4b) | 11-09 | Anywhere in USA | 5+ years PM; security/identity infrastructure; machine identities<br>Language: Not explicitly stated |
-| Icon research pending | Movable Ink<br>[Senior Technical Product Manager, Integrations](https://movableink.com/job-listing?gh_jid=8313321) | 11-09 | New York (Remote), USA; exact state coverage not listed | 5+ years PM; third-party integrations; engineering/design; partner relationships<br>Language: Not explicitly stated |
-| Icon research pending | Movable Ink<br>[Senior Product Manager, Data Interfaces](https://movableink.com/job-listing?gh_jid=8313117) | 11-09 | New York (Remote), USA; exact state coverage not listed | 5+ years data/platform PM; self-service data transformation and activation<br>Language: Not explicitly stated |
-| Icon research pending | Natera<br>[Senior Product Manager, ClinicalAI Real-World Data (RWD)](https://job-boards.greenhouse.io/natera/jobs/6239213004) | 11-06 | USA remote | 5+ years PM; 2+ shipped user-facing products; AI workflows; degree or equivalent<br>Language: Not explicitly stated |
-| Icon research pending | Tailscale<br>[Product Manager, Identity](https://job-boards.greenhouse.io/tailscale/jobs/4751755005) | 11-06 | USA remote | 4-7 years PM; identity platform; OIDC/SAML/SCIM; access control<br>Language: Not explicitly stated |
-| Icon research pending | Vanta<br>[Senior Product Manager, Organizational Units](https://jobs.ashbyhq.com/vanta/82dd0fed-120e-4983-a1ae-676ae355cea8) | 11-05 | USA remote | 5+ years PM; enterprise B2B/SaaS; permissions and organizational structure<br>Language: Not explicitly stated |
-| Icon research pending | Splash Financial<br>[Senior Product Manager](https://job-boards.greenhouse.io/splashfinancial/jobs/4727005006) | 11-04 | USA only | 6+ years PM; consumer tech/fintech; lending and compliance<br>Language: Not explicitly stated |
-| Icon research pending | Zillow<br>[Senior Product Manager, Agent CRM](https://zillow.wd5.myworkdayjobs.com/job/Remote-USA/Senior-Product-Manager--Agent-CRM_P751746-2) | Unknown | USA: 50 states with limited exceptions | 5+ years PM or equivalent; CRM/agent workflows; product strategy<br>Language: Not explicitly stated |
+| Logo | Company | Title | Posted(2026) | Remote worker location | Pay range / estimate | Requirements / language |
+| :---: | :--- | :--- | :--- | :--- | :--- | :--- |
+| <img src="assets/5-twinhealth.com.svg" width="56" alt="Twin Health"> | [Twin Health](https://twinhealth.com) | [Principal Product Manager, New Programs](https://sportstechjobs.com/principal-product-manager-new-programs-twin-health/6af52e5e2bf7e191ea99e751) | 11-12 | USA only; existing US work authorization; no visa sponsorship<br><small>API and linked aggregator identify US remote. Exact employer ad not rechecked; no assertion of zero travel.</small> | USD 160,000 - 235,000 / period not supplied | 7+ years PM; consumer products; 0-to-1 and scaling; experimentation; mobile/AI collaboration<br>Language:Not explicitly stated |
+| Icon research pending | Liftoff | [Senior Staff Product Manager, eCommerce, Remote Job](https://dynamitejobs.com/company/liftoff/remote-job/senior-staff-product-manager-ecommerce-2) | 11-12 | CA,CO,ID,IL,FL,GA,MA,MI,MN,MO,NJ,NV,NY,OR,PA,TX,UT,WA only<br><small>Remote-first; allowedUSstates explicitly listed</small> | USD 230,000 - 280,000 / period not supplied | 8+ years PM; performance advertising<br>Language:Not explicitly stated |
+| Icon research pending | Veradigm® | [Principal Product Manager - Salesforce CPQ &amp; Agentforce](https://revpath.dealhub.io/jobs/802893677-principal-product-manager-salesforce-cpq-agentforce) | 11-11 | USA remote; North Carolina listing<br><small>US/Canada work authorization required; this row isUSremote</small> | USD 130,241 - 189,502 / period not supplied | Principal PM; Salesforce CPQ and Agentforce<br>Language:Not explicitly stated |
+| <img src="assets/4-credo.ai.png" width="56" alt="Credo AI"> | [Credo AI](https://credo.ai) | [Product Manager, Integrations](https://jobs.ashbyhq.com/credo.ai/d727dd55-8e73-493e-b2c8-dcb366dca88f) | 11-10 | USA; Pacific Time Zone preferred<br><small>Remote role, fully distributed; in-person coworking and company offsites multiple times/year. Not a promise of zero travel.</small> | USD 170,000 - 190,000 / period not supplied | 5+ years PM; integrations/developer platforms/APIs; enterprise SaaS; AI governance<br>Language:Not explicitly stated |
+| <img src="assets/6-coinbase.com.png" width="56" alt="Coinbase"> | [Coinbase](https://www.coinbase.com) | [Senior Product Manager, Simple Trading](https://www.coinbase.com/careers/positions/8374607?gh_jid=8374607) | 11-10 | USA remote<br><small>Remote-first, not remote-only; quarterly in-person working sessions required</small> | USD 218,025 - 256,500 / period not supplied | 5+ years PM; 2+ years trading/fintech/marketplaces; SQL; experimentation<br>Language:Not explicitly stated |
+| Icon research pending | Hard Rock Digital | [Senior Product Manager - Technical Data, Quantitative Sports](https://www.parlayjobs.com/jobs/senior-product-manager-technical-data-quantitative-sports-863a948c) | 11-10 | USA remote<br><small>Remote-first, not remote-only; quarterly in-person working sessions required</small> | Not stated; estimate unavailable | 5-8 years PM/technical delivery; sports betting<br>Language:Not explicitly stated |
+| Icon research pending | Delinea | [Senior Product Manager - Non-Human Identity Security](https://jobs.ashbyhq.com/delinea/870e5dea-9a82-4a95-941e-34b5caacde4b) | 11-09 | Anywhere in USA<br><small>US remote; no routine office requirement stated</small> | USD 145,000 - 162,000 / period not supplied | 5+ years PM; security/identity infrastructure; machine identities<br>Language:Not explicitly stated |
+| Icon research pending | Movable Ink | [Senior Technical Product Manager, Integrations](https://movableink.com/job-listing?gh_jid=8313321) | 11-09 | New York (Remote), USA; exact state coverage not listed<br><small>Remote location in API and employer ad; confirm state eligibility</small> | USD 145,000 - 185,000 / year | 5+ years PM; third-party integrations; engineering/design; partner relationships<br>Language:Not explicitly stated |
+| Icon research pending | Movable Ink | [Senior Product Manager, Data Interfaces](https://movableink.com/job-listing?gh_jid=8313117) | 11-09 | New York (Remote), USA; exact state coverage not listed<br><small>Remote location in API and employer ad; confirm state eligibility</small> | USD 145,500 - 185,000 / year | 5+ years data/platform PM; self-service data transformation and activation<br>Language:Not explicitly stated |
+| Icon research pending | Natera | [Senior Product Manager, ClinicalAI Real-World Data (RWD)](https://job-boards.greenhouse.io/natera/jobs/6239213004) | 11-06 | USA remote<br><small>Remote-first, not remote-only; quarterly in-person working sessions required</small> | Not stated; estimate unavailable | 5+ years PM; 2+ shipped user-facing products; AI workflows; degree or equivalent<br>Language:Not explicitly stated |
+| Icon research pending | Tailscale | [Product Manager, Identity](https://job-boards.greenhouse.io/tailscale/jobs/4751755005) | 11-06 | USA remote<br><small>Remote-first, not remote-only; quarterly in-person working sessions required</small> | USD 177,000 - 221,000 / period not supplied | 4-7 years PM; identity platform; OIDC/SAML/SCIM; access control<br>Language:Not explicitly stated |
+| Icon research pending | Datavant | [Sr. Product Manager, L&amp;I](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5466392008) | 11-06 | USA remote<br><small>Remote-first, not remote-only; quarterly in-person working sessions required</small> | USD 170,000 - 200,000 / period not supplied | 5+ years PM; enterprise data-centricB2BSaaS;API/platform<br>Language:Not explicitly stated |
+| Icon research pending | SandboxAQ | [Principal Technical Product Manager, Data Platform](https://jobs.ashbyhq.com/sandboxaq/622ef111-1333-480b-b63a-90b0b4cc205d) | 11-06 | USA remote listing<br><small>Fullyremote benefit; country based onAPIlisting,confirmhiringstate</small> | USD 163,200 - 306,000 / period not supplied | 5+ years PM; data platforms/governance<br>Language:Not explicitly stated |
+| Icon research pending | Vanta | [Senior Product Manager, Organizational Units](https://jobs.ashbyhq.com/vanta/82dd0fed-120e-4983-a1ae-676ae355cea8) | 11-05 | USA remote<br><small>Remote-first, not remote-only; quarterly in-person working sessions required</small> | USD 207,000 - 244,000 / period not supplied | 5+ years PM; enterprise B2B/SaaS; permissions and organizational structure<br>Language:Not explicitly stated |
+| Icon research pending | Splash Financial | [Senior Product Manager](https://job-boards.greenhouse.io/splashfinancial/jobs/4727005006) | 11-04 | USA only<br><small>Remote-first; quarterly meetups mentioned; collections office exception is not this PM role</small> | USD 145,000 - 185,000 / year | 6+ years PM; consumer tech/fintech; lending and compliance<br>Language:Not explicitly stated |
+| Icon research pending | Higharc | [Sr. Product Manager - Studio Data Platform](https://jobs.ashbyhq.com/Higharc/1a0b4edc-9c38-41e0-8699-6c646682a760) | 08-07 | Continental USA<br><small>Fully remote with up to30%travel toclient sites/companyevents</small> | Not stated; estimate unavailable | 5+ years PM; deployed/customer-facing enterprise products<br>Language:Not explicitly stated |
+| Icon research pending | Zillow | [Senior Product Manager, Agent CRM](https://zillow.wd5.myworkdayjobs.com/job/Remote-USA/Senior-Product-Manager--Agent-CRM_P751746-2) | Unknown | USA: 50 states with limited exceptions<br><small>No permanent office workplace; location must be disclosed, limited exceptions apply</small> | USD 151,700 - 242,300 / year | 5+ years PM or equivalent; CRM/agent workflows; product strategy<br>Language:Not explicitly stated |
+| Icon research pending | Workiva | [Principal BT Product Manager](https://workiva.wd503.myworkdayjobs.com/job/USA---Remote/Principal-BT-Product-Manager_R12705) | Unknown | USA remote within country of employment<br><small>Remote within employment country; office optional</small> | USD 154,000 - 265,000 / period not supplied | 10+ years enterprise/business systems or8+advanceddegree<br>Language:Not explicitly stated |
+| Icon research pending | Indeed.com | [Sr. Product Manager](https://careers-indeed.icims.com/jobs/48181/sr.-product-manager/job) | Unknown | US remote only<br><small>Location-tier salary ranges vary; confirm exact tier</small> | USD 150,000 - 224,000 / year | 12-14 years relevant experience or equivalent education/experience<br>Language:Not explicitly stated |
+| Icon research pending | Chamberlain Group (CG) | [Sr. Software Product Manager, myQ (Remote)](https://chamberlain.wd1.myworkdayjobs.com/job/Remote---Pennsylvania/Sr-Software-Product-Manager--myQ--Remote-_JR31881) | Unknown | Pennsylvania,USA remote listing<br><small>RemotePennsylvania; otherstates notconfirmed</small> | USD 150,470 - 252,579 / period not supplied | 5+ years PM/engineering/productowner<br>Language:Not explicitly stated |
+| Icon research pending | H&R Block | [Senior Product Manager, Spruce](https://careers-hrblock.icims.com/jobs/79568/senior-product-manager%2c-spruce/job) | Unknown | Missouri,USA remote listing<br><small>RemoteMO source location; otherstates notconfirmed</small> | USD 101,200 - 161,900 / year | 6+ years PM/related; relevantBachelor; mobileproducts<br>Language:Not explicitly stated |
 
-## Conditions and verification
+Pay column uses stated API/employer figures where available, not a fabricated market estimate. Currency/period missing in source are marked. Base/total may differ; read linked ad.
 
-### Twin Health: Principal Product Manager, New Programs
 
-- Pay: $205,000-$235,000 USD/year.
-- API and linked aggregator identify US remote. Exact employer ad not rechecked; no assertion of zero travel.
-- Jobscout #3427197, active at API check. API/aggregator-backed; employer availability unverified. Date source: Jobscout date_posted.
-- [Listing source](https://sportstechjobs.com/principal-product-manager-new-programs-twin-health/6af52e5e2bf7e191ea99e751) · [Original API source](https://sportstechjobs.com/principal-product-manager-new-programs-twin-health/6af52e5e2bf7e191ea99e751)
-
-### Credo AI: Product Manager, Integrations
-
-- Pay: $170,000-$190,000 USD base/year.
-- Remote role, fully distributed; in-person coworking and company offsites multiple times/year. Not a promise of zero travel.
-- Jobscout #3377550, active at API check. Employer ad also checked Nov 12. Date source: Jobscout date_posted.
-- [Listing source](https://jobs.ashbyhq.com/credo.ai/d727dd55-8e73-493e-b2c8-dcb366dca88f) · [Original API source](https://jobs.ashbyhq.com/credo.ai/d727dd55-8e73-493e-b2c8-dcb366dca88f)
-
-### Coinbase: Senior Product Manager, Simple Trading
-
-- Pay: Not stated.
-- Remote-first, not remote-only; quarterly in-person working sessions required
-- Jobscout #3330397, active at API check. Employer ad also checked Nov 12. Date source: Employer published date; API dateNov11 differs.
-- [Listing source](https://www.coinbase.com/careers/positions/8374607?gh_jid=8374607) · [Original API source](https://findweb3.com/job/6af3b03f31e37f820fa9607c)
-
-### Delinea: Senior Product Manager - Non-Human Identity Security
-
-- Pay: $145K - $162K.
-- US remote; no routine office requirement stated
-- Jobscout #3377885, active at API check. Employer ad also checked Nov 12. Date source: Jobscout date_posted; not scrape date.
-- [Listing source](https://jobs.ashbyhq.com/delinea/870e5dea-9a82-4a95-941e-34b5caacde4b) · [Original API source](https://jobs.ashbyhq.com/delinea/870e5dea-9a82-4a95-941e-34b5caacde4b)
-
-### Movable Ink: Senior Technical Product Manager, Integrations
-
-- Pay: Not stated.
-- Remote location in API and employer ad; confirm state eligibility
-- Jobscout #3390347, active at API check. Employer ad also checked Nov 12. Date source: Jobscout date_posted; not scrape date.
-- [Listing source](https://movableink.com/job-listing?gh_jid=8313321) · [Original API source](https://movableink.com/job-listing?gh_jid=8313321)
-
-### Movable Ink: Senior Product Manager, Data Interfaces
-
-- Pay: Not stated.
-- Separate Data Interfaces role, not duplicate of Integrations
-- Jobscout #3390345, active at API check. Employer ad also checked Nov 12. Date source: Jobscout date_posted; not scrape date.
-- [Listing source](https://movableink.com/job-listing?gh_jid=8313117) · [Original API source](https://movableink.com/job-listing?gh_jid=8313117)
-
-### Natera: Senior Product Manager, ClinicalAI Real-World Data (RWD)
-
-- Pay: Not stated.
-- Senior IC, clinical real-world data workflows
-- Jobscout #3292234, active at API check. Employer ad also checked Nov 12. Date source: Jobscout date_posted; not scrape date.
-- [Listing source](https://job-boards.greenhouse.io/natera/jobs/6239213004) · [Original API source](https://job-boards.greenhouse.io/natera/jobs/6239213004)
-
-### Tailscale: Product Manager, Identity
-
-- Pay: Not stated.
-- Remote-first; virtual/in-person social events and coworking access
-- Jobscout #3227053, active at API check. Employer ad also checked Nov 12. Date source: Jobscout date_posted; not scrape date.
-- [Listing source](https://job-boards.greenhouse.io/tailscale/jobs/4751755005) · [Original API source](https://job-boards.greenhouse.io/tailscale/jobs/4751755005)
-
-### Vanta: Senior Product Manager, Organizational Units
-
-- Pay: $207K - $244K.
-- Office commuter benefits are generic; this listing is Remote U.S.
-- Jobscout #3185584, active at API check. Employer ad also checked Nov 12. Date source: Jobscout date_posted; not scrape date.
-- [Listing source](https://jobs.ashbyhq.com/vanta/82dd0fed-120e-4983-a1ae-676ae355cea8) · [Original API source](https://jobs.ashbyhq.com/vanta/82dd0fed-120e-4983-a1ae-676ae355cea8)
-
-### Splash Financial: Senior Product Manager
-
-- Pay: Not stated.
-- Remote-first; quarterly meetups mentioned; collections office exception is not this PM role
-- Jobscout #3187433, active at API check. Employer ad also checked Nov 12. Date source: Jobscout date_posted; not scrape date.
-- [Listing source](https://job-boards.greenhouse.io/splashfinancial/jobs/4727005006) · [Original API source](https://job-boards.greenhouse.io/splashfinancial/jobs/4727005006)
-
-### Zillow: Senior Product Manager, Agent CRM
-
-- Pay: Not stated.
-- No permanent office workplace; location must be disclosed, limited exceptions apply
-- Jobscout #3334952, active at API check. API/aggregator-backed; employer availability unverified. Date source: Jobscout date_posted; not scrape date.
-- [Listing source](https://zillow.wd5.myworkdayjobs.com/job/Remote-USA/Senior-Product-Manager--Agent-CRM_P751746-2) · [Original API source](https://zillow.wd5.myworkdayjobs.com/job/Remote-USA/Senior-Product-Manager--Agent-CRM_P751746-2)
-
-## Coverage limits
-
-This is an expanded snapshot, not all matches. USA country query returned 200 and another-page cursor. UK179/Germany142/Netherlands67/Ireland27 were candidate counts, not eligible-job totals. Explicit residency facets returned far fewer records and are not reliable as the only discovery route. Full descriptions were screened; duplicates, product marketing, junior jobs and unclear location remain excluded. New icons are visibly pending research; they do not block a qualifying job. No recurring refresh configured.
+API-backed listings are not a guarantee that applications remain open. Employer rechecks and source details are in [Sources](sources.md).
