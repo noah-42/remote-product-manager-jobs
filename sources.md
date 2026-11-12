@@ -297,3 +297,16 @@ Research details moved from the regional job pages; checked Nov 12, 2026.
 - Openprovider #3339405: API says 100% remote but does not name eligible countries. Earlier external country examples are not API verified and are no longer current displayed facts. Retained pending geography resolution.
 - Coinbase #3330397: API does not mention quarterly attendance. The older external attendance note is historical, not current API evidence.
 - Requirements, location, pay and language reviewed for IDs 3427197, 3414426, 3319755, 3339405, 3365171, 3428418, 3377550 and 3330397. Remaining 24 rows await this review.
+
+## Remaining 24 API field reviews, Nov 12
+
+All 32 published records now have a requirements/location/pay/language review against Jobscout details. This is not qualification of the broader discovery catalogue.
+
+- Monzo #3436552: API description header GBP 115,000-145,000 differs from benefits GBP 120,000-140,000. Both retained, no range chosen; salary period not explicit. UK distributed working includes ad hoc London meetings. Visa sponsorship offered.
+- Natera #3292234: API description states USD 165,800-207,300; annual display uses the approved convention. Structured salary fields are empty.
+- Delinea #3377885: up to 25% travel, no US work-authorization support now or future. Vanta #3185584 and Upsun #2577939 also explicitly exclude sponsorship; Datavant #3273740 excludes sponsorship and says client health checks/vaccinations may apply.
+- Datavant #3273740: USD 170,000-200,000 is total cash, not base salary.
+- Zillow #3334952: USD 151,700-242,300 annually in CA, CT, MD, MA, NJ, NY, WA and DC; USD 144,100-230,300 in CO, HI, IL, ME, MN, NV, OH, RI, VT and VA. Other locations may differ.
+- Indeed #3387594: API says active, but description deadline is September 17, 2026. Extension is possible per the text, not established. Conflict visible; row preserved.
+- Workiva #3416212: up to 25% travel. Higharc #3338664: up to 30% travel. RoomPriceGenie #2514280: annual one-week team gathering. Prior externally supplemented one-year term is not confirmed by the API description.
+- USA-company English-ad assumption now applied only when current API company summary HQ is United States/US and posting language is English. It does not use job location as company HQ. Scopely and Grafana satisfy that test; Twin Health and Liftoff do not.
