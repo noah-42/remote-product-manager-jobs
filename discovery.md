@@ -1,5 +1,7 @@
 # Jobscout discovery coverage
 
+ARCHIVAL DISCOVERY SNAPSHOT - raw candidate evidence, not the current qualified list. Older and unknown-date records are preserved here; current screened pages and exports use the rolling six-calendar-month window.
+
 [All job listings](https://github.com/noah-42/job-listings) · [Screened Europe](europe.md) · [Screened USA](usa.md)
 
 First pass: 27 pages exhausted, 5,307 raw global records for active remote Product Manager title tokens with a 200+ character description. Final cursor: null. This is NOT 5,307 eligible jobs. Query title tokens also return product marketing and other false positives.
@@ -30,4 +32,4 @@ No salary estimates invented. API salary periods may be missing. Catalogue is ca
 
 ## Detail-screening increment, Nov 12, 17:40
 
-40 rows now retained in human pages and current exports (13 Europe, 27 USA), up from 32. Eight additional detail-screened IDs: 3371403, 456587, 3269338, 3345918, 3331980, 3369020, 3274563, 3305031. Openprovider geography unresolved and Indeed deadline conflict remain visible. 63 full details are held; 23 not yet published, including uncertain and excluded candidates. Raw catalogue totals are not eligibility totals.
+40 rows retained in the full screened archive (13 Europe, 27 USA); current window has34 (13 Europe,21 USA), up from 32. Eight additional detail-screened IDs: 3371403, 456587, 3269338, 3345918, 3331980, 3369020, 3274563, 3305031. Openprovider geography unresolved and Indeed deadline conflict remain visible. 63 full details are held; 23 not yet published, including uncertain and excluded candidates. Raw catalogue totals are not eligibility totals.
