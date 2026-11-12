@@ -310,3 +310,55 @@ All 32 published records now have a requirements/location/pay/language review ag
 - Indeed #3387594: API says active, but description deadline is September 17, 2026. Extension is possible per the text, not established. Conflict visible; row preserved.
 - Workiva #3416212: up to 25% travel. Higharc #3338664: up to 30% travel. RoomPriceGenie #2514280: annual one-week team gathering. Prior externally supplemented one-year term is not confirmed by the API description.
 - USA-company English-ad assumption now applied only when current API company summary HQ is United States/US and posting language is English. It does not use job location as company HQ. Scopely and Grafana satisfy that test; Twin Health and Liftoff do not.
+
+## Eight additional API detail-screened records, Nov 12
+
+- Afternow #3371403: https://api.noah42.com/jobscout/v1/jobs/3371403 ; application/listing https://dynamitejobs.com/company/afternow/remote-job/senior-technical-product-manager. Active in API; employer availability not independently checked.
+- Mozilla #456587: https://api.noah42.com/jobscout/v1/jobs/456587 ; application/listing https://job-boards.greenhouse.io/mozilla/jobs/7931363. Active in API; employer availability not independently checked.
+- Coinbase #3269338: https://api.noah42.com/jobscout/v1/jobs/3269338 ; application/listing https://findweb3.com/job/6aee6a41ac63f5786bcc5e52. Active in API; employer availability not independently checked.
+- NeueHealth #3345918: https://api.noah42.com/jobscout/v1/jobs/3345918 ; application/listing https://dynamitejobs.com/company/neuehealth/remote-job/senior-ai-product-manager. Active in API; employer availability not independently checked.
+- Rula #3331980: https://api.noah42.com/jobscout/v1/jobs/3331980 ; application/listing https://sportstechjobs.com/sr.-product-managerstaff-product-manager-core-experience-rula/6aefe62753733499b4e2150f. Active in API; employer availability not independently checked.
+- ABB #3369020: https://api.noah42.com/jobscout/v1/jobs/3369020 ; application/listing https://abb.wd3.myworkdayjobs.com/job/USA-TN-Memphis/Senior-Product-Manager---Wire-Management_JR00053041. Active in API; employer availability not independently checked.
+- Equip #3274563: https://api.noah42.com/jobscout/v1/jobs/3274563 ; application/listing https://sportstechjobs.com/senior-product-manager-patient-engagement-and-ai-equip/6aee94c084dd4e28fa09d02d. Active in API; employer availability not independently checked.
+- GE Aerospace #3305031: https://api.noah42.com/jobscout/v1/jobs/3305031 ; application/listing https://careers.geaerospace.com/global/en/job/R5042476/principal-technical-product-manager-data-platform. Active in API; employer availability not independently checked.
+
+Afternow requires both Spanish and English, not English alone. Mozilla annual period is a display convention for the explicit large range in the API description; raw salary fields are empty. Rula excludes Hawaii. ABB has up to 40% travel and a physical electrical/mechanical product portfolio, not software-only PM. ABB description states upper salary228,000 although structured maximum is null. GE requires existing US work authorization and no current/future sponsorship. New company branding marked Pending until checked, not a fix-required glyph.
+
+## Identity and posting-date field reconciliation
+
+API titles, company names, listing URLs and posting dates were compared for all40rows. Prior differing values are preserved in the audit below, not silently discarded.
+
+```json
+[
+  {
+    "id": 3319755,
+    "field": "job_url",
+    "old": "https://jobs.ashbyhq.com/jupus/9c25e96d-a010-4293-99be-b7d349dbda3e",
+    "api": "https://www.arbeitnow.com/jobs/companies/jupus/senior-product-manager-cologne-319386"
+  },
+  {
+    "id": 3339405,
+    "field": "role",
+    "old": "Senior Product Manager - Fully Remote",
+    "api": "Senior Product Manager"
+  },
+  {
+    "id": 3339405,
+    "field": "job_url",
+    "old": "https://openprovider.jobs.personio.com/job/2858583?language=en",
+    "api": "https://www.remotedxb.com/job/senior-product-manager-openprovider--3484303"
+  },
+  {
+    "id": 3330397,
+    "field": "job_url",
+    "old": "https://www.coinbase.com/careers/positions/8374607?gh_jid=8374607",
+    "api": "https://findweb3.com/job/6af3b03f31e37f820fa9607c"
+  },
+  {
+    "id": 3330397,
+    "field": "posted",
+    "old": "2026-11-10",
+    "api": "2026-11-11"
+  }
+]
+```
