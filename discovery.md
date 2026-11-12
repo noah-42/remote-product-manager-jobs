@@ -27,3 +27,7 @@ First pass: 27 pages exhausted, 5,307 raw global records for active remote Produ
 | Other or unknown | [Part 6](catalogue/other-or-unknown-6.md) | 192 |
 
 No salary estimates invented. API salary periods may be missing. Catalogue is candidate evidence, not employer validation. No new recurring refresh.
+
+## Detail-screening increment, Nov 12, 17:40
+
+40 rows now retained in human pages and current exports (13 Europe, 27 USA), up from 32. Eight additional detail-screened IDs: 3371403, 456587, 3269338, 3345918, 3331980, 3369020, 3274563, 3305031. Openprovider geography unresolved and Indeed deadline conflict remain visible. 63 full details are held; 23 not yet published, including uncertain and excluded candidates. Raw catalogue totals are not eligibility totals.
