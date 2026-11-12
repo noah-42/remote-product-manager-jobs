@@ -366,3 +366,5 @@ API titles, company names, listing URLs and posting dates were compared for all4
 ## Verified upstream repair followthrough, Nov12 18:03
 
 Scopely company65210 now supplies a working1529-byte PNG, also verified in Favicon Hub; used in current Europe list. Chamberlain2145140 now supplies a working1432-byte PNG with declared-source provenance, also stored in Hub; retained in full archive only because posting date remains unknown. Veradigm job3428418 canonical company_id is104671 after upstream consolidation; exact top-level name remains Veradigm® pending upstream display-field correction. No local brand-name substitute or date fabrication.
+
+Splash Financial company2039221/job3187433: Nov04 confirmed source date remains in current USA list. User-supplied original JPEG now available in canonical Favicon Hub, used at90px; Jobscout asset write separately pending. No Cloudflare retries or date changes.
