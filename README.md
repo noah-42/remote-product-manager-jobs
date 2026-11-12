@@ -24,3 +24,7 @@ Updated Nov 12, 2026. Remote-first accepted; routine hybrid/on-site excluded. Re
 Only confirmed posting dates from 2026-05-12 onward appear in the lists and current CSV/JSON exports. This is a rolling six-calendar-month window. Older and unknown dates are excluded from the visible lists; [full source archive](archive-all-records.json) preserves every record. No source database records changed.
 
 Current visible page counts: europe.md: 13, usa.md: 21.
+
+## Historical exports
+
+The root `jobs.json` and `jobs.csv` are preserved historical snapshots, not current-window downloads. Use `data/jobs.json` and `data/jobs.csv` linked above for current listings. The discovery catalogue is an archival research snapshot, not a qualified current list.
