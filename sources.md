@@ -372,3 +372,7 @@ Splash Financial company2039221/job3187433: Nov04 confirmed source date remains 
 ## Mozilla logo correction, Nov13 02:26CET
 
 Company784/domainmozilla.org. Existing Favicon Hub returned200PNG13489bytes, identical to working Jobscout companylogo_url. Jobscout favicon_url separately returned200PNG591bytes. Prior Pending cell was unfinished publishing/checking, not missing data in either source. Existing canonicalHubbytes used at90px; no Hub or Jobscout repair needed, no source writes.
+
+## Logo publication followthrough, Nov13 02:36 CET
+
+Afternow2156449 now uses its verified official Hub asset. NeueHealth job3345918 retains exact company92315, not similarly named67944; its domain and official site favicon pointer were already saved. Rula3331980 retains6681/rula.com. GE Aerospace3305031 retains6477/geaerospace.com. All have working canonical Jobscout icon bytes. The earlier published Pending cells had empty local image mappings; upstream saves do not update this snapshot automatically. NeueHealth, Rula and GE Aerospace Hub icon endpoints returned404 at this check, but their working Jobscout icons are used. GE original48px ICO is displayed via lossless PNG conversion and may look softer at60px; no high-resolution claim. No company merge, job content, counts or source database changes.
