@@ -368,3 +368,7 @@ API titles, company names, listing URLs and posting dates were compared for all4
 Scopely company65210 now supplies a working1529-byte PNG, also verified in Favicon Hub; used in current Europe list. Chamberlain2145140 now supplies a working1432-byte PNG with declared-source provenance, also stored in Hub; retained in full archive only because posting date remains unknown. Veradigm job3428418 canonical company_id is104671 after upstream consolidation; exact top-level name remains Veradigm® pending upstream display-field correction. No local brand-name substitute or date fabrication.
 
 Splash Financial company2039221/job3187433: Nov04 confirmed source date remains in current USA list. User-supplied original JPEG now available in canonical Favicon Hub, used at90px; Jobscout asset write separately pending. No Cloudflare retries or date changes.
+
+## Mozilla logo correction, Nov13 02:26CET
+
+Company784/domainmozilla.org. Existing Favicon Hub returned200PNG13489bytes, identical to working Jobscout companylogo_url. Jobscout favicon_url separately returned200PNG591bytes. Prior Pending cell was unfinished publishing/checking, not missing data in either source. Existing canonicalHubbytes used at90px; no Hub or Jobscout repair needed, no source writes.
