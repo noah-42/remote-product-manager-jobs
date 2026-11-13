@@ -21,7 +21,7 @@ Updated Nov 12, 2026. Remote-first accepted; routine hybrid/on-site excluded. Re
 
 ## Current GitHub window
 
-Only confirmed posting dates from 2026-05-12 onward appear in the lists and current CSV/JSON exports. This is a rolling six-calendar-month window. Older and unknown dates are excluded from the visible lists; [full source archive](archive-all-records.json) preserves every record. No source database records changed.
+Only confirmed posting dates from 2026-05-13 onward appear in the lists and current CSV/JSON exports. This is a rolling six-calendar-month window. Older and unknown dates are excluded from the visible lists; [full source archive](archive-all-records.json) preserves every record. No source database records changed.
 
 Current visible page counts: europe.md: 13, usa.md: 21.
 
