@@ -1,4 +1,4 @@
-# Jobscout discovery coverage
+# Teleport discovery coverage
 
 ARCHIVAL DISCOVERY SNAPSHOT - raw candidate evidence, not the current qualified list. Older and unknown-date records are preserved here; current screened pages and exports use the rolling six-calendar-month window.
 
